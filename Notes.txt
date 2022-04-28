@@ -1,0 +1,2 @@
+The U means that the file has yet to be uploaded or push.
+Crtl + k + c: make a comment.
